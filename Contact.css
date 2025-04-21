@@ -1,0 +1,64 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+    margin : 0px;
+    padding : 0px;
+    background-size : auto;
+  }
+  
+  .contact-form {
+    background-color: #3498db;
+    color: white;
+  }
+  
+  /* Header Styling */
+  header {
+    background-color: #3498db;
+     
+    color: white;
+     
+      padding:2px;
+  }
+  
+  label {
+    color: white;
+    font-size: 16px;
+      margin : 10px 10px;
+      padding : 10px 10px;
+  }
+  
+  button {
+  background-color: #1324e4;
+    color: white;
+    padding : 10px 20px;
+    border : none;
+    border-radius: 5px;
+    width : auto;
+   
+       
+    
+
+  
+  }
+
+
+section
+{
+    text-align : center;
+   
+    padding : 10px 10px;
+ }
+
+
+
+
+input, textarea {
+  width: 100%;                 /* Set appropriate width */
+  padding: 10px;               /* Apply padding for better visual appeal */
+  margin: 10px 0px;            /* Add 10px margin on top and bottom, 0px on sides */
+  box-sizing: border-box;       /* Ensure padding is included within the width */
+  border: 1px solid #3498db;    /* Solid border with 1px width in blue (#3498db) */
+  border-radius: 5px;           /* Round the corners with 5px radius */
+}

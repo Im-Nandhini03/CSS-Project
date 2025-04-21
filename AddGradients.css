@@ -1,0 +1,56 @@
+/* Body background - gradient */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #68eacc, #497be8);
+   
+}
+
+/* Section Styling */
+.sec1 {
+    width: 50%;
+  padding: 1px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); 
+  margin:auto;
+}
+
+/* Header (H1) */
+h1 {
+    text-align: center;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+/* Div elements (boxes) */
+div {
+    padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 80%;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+/* Second box - gradient */
+.box2 {
+    background: linear-gradient(to right, #78ffd6, #a8ff78);
+}
+
+/* Third box - radial gradient */
+.box3 {
+    background: radial-gradient(circle, #ff9a9e, #fad0c4);
+}
+
+/* Fourth box - conic gradient */
+.box4 {
+    background: conic-gradient(from 180deg, #ffecd2, #fcb69f);
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+  }
+

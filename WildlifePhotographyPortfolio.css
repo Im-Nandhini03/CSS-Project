@@ -1,0 +1,58 @@
+body {
+    background-color: #222;
+    margin: 0;
+    padding: 0;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+  }
+  header {
+    height: 150px;
+    padding: 10px 40px;
+    background-color: #222;
+    color: #fff;
+    padding: 10px;
+    background-image: url('https://ninjasfiles.s3.amazonaws.com/asset_0000000000002828_1711271938_ken-cheung-KonWFWUaAuk-unsplash.jpg');
+      background-size: cover;
+      background-position: center;
+      filter: brightness(0.7);
+      width : 100%;
+  }
+  
+  header a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: 0px;
+  }
+  
+  header a:hover {
+    text-decoration: underline;
+  }
+  
+  h1 {
+    text-align: center;
+    color: white;
+  }
+  
+  .main {
+    width: 80%;
+    margin-top: 50px;
+      display: flex;
+      flex-direction: row;
+      margin-left: 40px;
+     margin-right: 40px;
+      align-items: center;
+  }
+  
+  .gallery-item {
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 0px;
+    width: 300px;
+    position: relative;
+    height: 400px;
+    border-radius: 100px;
+    background-color: #f2f2f2;
+    margin-left: 10px;
+  }

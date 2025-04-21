@@ -1,0 +1,38 @@
+body{
+    font-family: "Arial", sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+[data-styled="true"]
+{
+    width : 100%;
+    padding: 20px;
+    border-collapse: collapse;
+
+}
+
+[data-styled="true"] th{
+    border: 1px solid #dddddd;
+    background-color: lightgreen;
+    text-align: left;
+    padding: 20px;
+    color: white;
+
+}
+
+[data-styled="true"] td{
+    border : 1px solid #dddddd;
+    background-color: purple;
+    text-align: left;
+    padding: 20px;
+   
+    color: white;
+}
+
+/* [data-styled="true"] td{
+    padding: 20px;
+} */
+
+
+

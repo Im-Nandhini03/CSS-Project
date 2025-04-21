@@ -1,0 +1,59 @@
+body{
+    background-color: #111;
+    color:#fff;
+    text-align: center;
+    line-height: 1.6;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1{
+    text-align: center;
+
+    color:blanchedalmond;
+    text-shadow: 2px 2px blanchedalmond;
+}
+
+h3{
+    text-align: center;
+   color:blanchedalmond;
+}
+
+p{
+    text-align: center;
+    color:white;
+}
+
+div{
+    background-color: black;
+    background-attachment: scroll;
+    background-position: center;
+    letter-spacing: 2px;
+}
+
+section{
+    color:blanchedalmond;
+    font-family:"Times New Roman", Times, serif;
+    margin-left: 150px;
+    font-size: 20px;
+    
+}
+
+img{
+    width : 80%;
+    height : 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    text-align: center;
+    color : black;
+}
+
+figcaption{
+    color: blanchedalmond;
+    text-align: center;
+}

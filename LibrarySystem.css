@@ -1,0 +1,80 @@
+body{
+    background-image: url("https://ninjasfiles.s3.amazonaws.com/asset_0000000000002644_1709089520_download.jpg");
+    color: white;
+}
+
+article
+{
+    display : inline-block; 
+    
+    border : 2px solid blue;
+    background-color: white;
+    color: black;
+    margin : 20px 20px;
+    padding : 10px 10px;
+    border-radius: 10px;
+    text-align:  center;
+
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    font-weight :  bold;
+}
+
+nav
+{
+    text-align: center;
+    text-decoration: none;
+    color : white;
+    margin-right: 20px;
+    padding : 20px;
+    cursor : pointer;
+    background: gray;
+    width : 100%;
+    font-weight: bold;
+}
+    
+a{
+    color:white;
+}
+
+p{
+    color : green;
+}
+
+
+section
+{
+    text-align: center;
+}
+
+table{
+    text-align: center;
+    color : white;
+    width :800px;
+    height: 250px;
+    margin: 10px auto;
+    padding : 40px 40px;
+   border-collapse: collapse;
+   border-color: white;
+    
+    
+    
+}
+
+th{
+    background: violet;
+    border: none;;
+   
+   
+}
+
+tr{
+    background: gray;
+    
+}
+
